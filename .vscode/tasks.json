@@ -7,6 +7,7 @@
             "label": "Serve",
             "type": "shell",
             "command": "bundle exec jekyll serve --livereload",
+            "options": { "cwd": "${workspaceFolder}/docs/"},
             "group": {
                 "kind": "test",
                 "isDefault": true
@@ -17,6 +18,10 @@
             "label": "Build",
             "type": "shell",
             "command": "bundle exec jekyll build",
+            "options": { 
+                "cwd": "${workspaceFolder}/docs/",
+                "statusbar":{ "hide": "false"} 
+            },
             "group": {
                 "kind": "build",
                 "isDefault": true
