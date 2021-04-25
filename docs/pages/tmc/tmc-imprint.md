@@ -1,9 +1,9 @@
 ---
-title: Thomas Maierhofer Consulting Imprint
+title: Imprint and Privacy Policy
 keywords: thomas maierhofer consulting imprint
 last_updated: July 3, 2016
 tags: [getting_started]
-summary: "Welcome to Thomas Maierhofer Consulting - Imprint and Privacy Policy"
+summary: "Contact address and privacy policy information."
 sidebar: tmc_sidebar
 permalink: tmc-imprint.html
 folder: tmc
@@ -18,24 +18,21 @@ E-Mail: thomas@maierhofer.de
 Phone: +49 7524 9156757 +4915233539822  
 VAT-ID: DE300699198  
 
-## Datenschutzerklärung
-Die Benutzung unserer Website ist ohne Registrierung möglich. Auf dem Server werden KEINE PERSONENBEZOGENEN DATEN gespeichert. Zur technischen Zwecken - insbesondere zur Abwehr von Angriffen gegen unsere Website - werden Seitenaufrufe anonymisiert aufgezeichnet. Diese Website enthält keine Funktionen welche personenbezogene Daten verarbeitet. Auch zur Kontaktaufnahme wird grundsätzlich nur auf Möglichkeiten verwiesen die nicht direkt von dieser Webseite berietgestellt werden und auf freiwilliger Basis unter voller Kontrolle durch den jeweiligen Nutzer erfolgen - wie z.B. Telefon und E-Mail. Grundsätzlich erfolgt keine Datenweitergabe an Dritte.
+## Privacy Policy
+You can use this website without registering. NO PERSONAL DATA is stored on the server if you are not logged in with GitHub. This website does not contain any functions that process personal data. In order to establish contact, reference is generally only made to options that are not provided directly by this website and that are carried out on a voluntary basis under full control by the respective user - such as telephone and e-mail. In principle, no data is passed on to third parties. 
 
-### Cookies
-Beim Besuch unserer Website werden COOKIES (Kleine Textdateien zum Speichern Nutzerspezifischer Informationen auf ihrem Endgerät) verwendet. Die Speicherung dieser Cookies ist integraler Bestandteil der verwendeten Plattform "CONCRETE5" und kann technisch nicht problemlos deaktiviert werden. Die Entwickler von CONCRETE5 haben sich zur Verwendung von Cookies entschieden um ihr Produkt - und damit unsere Website -benutzerfreundlicher zu gestalten.
+### cookies
+When you visit our website, COOKIES (small text files for storing user-specific information on your device) are used. The storage of these cookies is an integral part of the "GitHub" platform used and cannot be deactivated without any technical problems. The developers of GitHub have decided to use cookies to make their product - and thus our website - more user-friendly.
 
 ### Google
-Diese Webseite benutzt Dienste, Daten und Technologien der Firma Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. 
-Durch die Verwendung der Dienste von Google werden deren Webserver verwendet, welche Ihre IP Addresse kennen und auch Cookies auf ihrem Endgerät speichern. 
-Details zum Umfang und der Art der von Google LLC erfassten und verarbeiteten Daten finden Sie auf der Google LLC Datenschutzerklärung.
-Die auf dieser Webseite verwendeten Dienste, Daten und Technologien im Einzelnen:
+This website uses services, data and technologies from Google LLC, 1600 Amphitheater Parkway, Mountain View, CA 94043, USA.
+By using the services of Google, their web servers are used, which know your IP address and also save cookies on your device.
+Details on the scope and type of data collected and processed by Google LLC can be found in the Google LLC privacy policy.
+The services, data and technologies used on this website in detail:
 
 ### Google Fonts
-Diese Website verwendet Google Fonts. Diese Web Schriftarten werden verwendet um das Aussehen und die Lesbarkeit unserer Webseite zu verbessern.
+This website uses Google Fonts. These web fonts are used to improve the appearance and readability of our website.
 
-### Trackingtools
-Auf unserer Website werden KEINE TRACKINGTOOLS (wie Google Analytics, Piwik, Urchin, ...) verwendet.
-
-
-
-{% include links.html %}
+### tracking tools
+NO TRACKING TOOLS (such as Google Analytics, Piwik, Urchin, ...) are used on our website. The underlying platform GitHub 
+may track your activities, especially when you are logged in with your personal GitHub account.
